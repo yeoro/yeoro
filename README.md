@@ -8,20 +8,20 @@
 
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yeoro0">
 
-- 🌱 I’m currently learning `Node`, `React`, `Algorithm`
-- 🥇 I majored in Economics
-- 🚅 My hometown is Gimhae, Gyeongsangnam-do in Korea
+- 👶🏻 I’m currently learning `Java`, `Spring`, `Algorithm`
+- 📚 I majored in Information and Communication Engineering
+- 🏡 My hometown is Incheon, Korea
 
 ### Experience
 
-- 🎓 Hannam University (2013.03 ~ 2019.02)
-- <img src="https://images.velog.io/images/jjungminyy/post/0882971c-ffe0-457e-bdb4-f08bc3c3261a/ssafy.png" height="25">
+- 👨🏻‍🎓 Hannam University (2013.03 ~ 2019.02)
+- 🏫 SSAFY (2020.01 ~ 2020.12)
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=yeoro" height="165">
 
 ### What I Like
 
-- 📺 Drama
-- 🔵 Game
-- 🍕 Pizza
+- 🎮 League of Legends
+- 🎤 Singing
+- 🏃‍♂️ Jogging
 
