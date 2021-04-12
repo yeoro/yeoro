@@ -16,7 +16,7 @@
 
 - 🎓 
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=yeoro0" height="165">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=yeoro" height="165">
 
 ### What I Like
 
