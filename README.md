@@ -15,7 +15,7 @@
 ### Experience
 
 - 🎓 Hannam University (2013.03 ~ 2019.02)
-- <img src="https://www.ssafy.com/favicon.ico">
+- <img src="https://www.ssafy.com/swp_m/images/common/logo3.png">
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=yeoro" height="165">
 
