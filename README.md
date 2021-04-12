@@ -21,7 +21,7 @@
 
 ### What I Like
 
-- 🎮 League of Legends <img src="https://w.namu.la/s/b151ed5a28ee76f5155075d591fd6fda9d3a20f33ce96b493054af61e4655310cf18353afb0b85755501cc130c0b38a3844baaad9fff71ec3e20ff542e5a064143d5acd9d4cc1a8f406c5d253ab5c20eb2b82cc0181a31ecd162f8bf1363f892" height="10">
+- 🎮 League of Legends (<img src="https://w.namu.la/s/b151ed5a28ee76f5155075d591fd6fda9d3a20f33ce96b493054af61e4655310cf18353afb0b85755501cc130c0b38a3844baaad9fff71ec3e20ff542e5a064143d5acd9d4cc1a8f406c5d253ab5c20eb2b82cc0181a31ecd162f8bf1363f892" height="20">)
 - 🎧 Listening to Music (Especially, Hip Hop🤟)
 - 🏃‍♂️ Jogging
 
