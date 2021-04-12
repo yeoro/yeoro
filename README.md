@@ -22,6 +22,6 @@
 ### What I Like
 
 - 🎮 League of Legends
-- 🎤 Singing
+- 🎧 Listening Music (Especially, Hip Hop🤟)
 - 🏃‍♂️ Jogging
 
