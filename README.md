@@ -13,7 +13,7 @@
 - 🏫 SSAFY (2020.01 ~ 2020.12)
 
 <div style="display: flex">
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=yeoro" height="165" style="margin-left:100">
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=yeoro" height="165" style="margin-left:500">
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yeoro0" style="margin-right:500">
 </div>
 
