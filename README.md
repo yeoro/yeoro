@@ -13,7 +13,7 @@
 - 🏫 SSAFY (2020.01 ~ 2020.12)
 
 ### Career
-- 💻 Hyundai Autoever (2021.09 ~ )
+- 💻 Hyundai Autover (2021.09 ~ )
 
 <div style="display: flex">
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=yeoro" height="165" style="margin-left:500">
