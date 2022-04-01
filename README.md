@@ -5,7 +5,6 @@
 ### Who Am I
 - 👶🏻 I’m currently learning `Java`, `Spring`, `Algorithm`
 - 📚 I majored in Information and Communication Engineering
-- 🏡 My hometown is Incheon, Korea
 
 ### Experience
 
